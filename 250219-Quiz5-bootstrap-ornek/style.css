@@ -1,0 +1,33 @@
+body{
+    background-image: url(res/arkaplan.png);
+    background-size: cover;
+}
+
+.yaziust{
+    text-align: center;
+    margin-top: 10px;
+    background-color: #ffffff9d;
+}
+
+.yazialt{
+    text-align: center;
+    margin-top: 10px;
+    background-color: #ffffff9d;
+}
+
+.card{
+    margin: 10px;
+    padding: 15px;
+    background-color: #ffffff9d;
+}
+
+.card img{
+    text-align: center;
+}
+
+.yaziorta{
+    position: absolute;
+    background-color: rgb(173, 13, 13);
+    padding: 5px;   
+    color: #fff;
+}
