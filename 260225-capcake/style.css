@@ -1,0 +1,12 @@
+body{
+    background-color: #fd79a8;
+}
+
+#menu a:hover{
+    background-color: #ff008c;
+    color: aliceblue;
+    transition: 1s;
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+}
