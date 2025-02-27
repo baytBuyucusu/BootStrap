@@ -1,0 +1,37 @@
+body{
+    background-image: url(img/bg2.jpg);
+    background-repeat: no-repeat;/*Resmin tekrar etmemesini sağlar.*/
+    background-size: cover;/*Resmi ekrana tam sığdırır*/
+}
+
+#logo img{
+    width: 150px;
+}
+
+#main-menu .nav-link{
+    color: #fd79a8;
+}
+
+.border-red{
+    border-color: #fd79a8 !important;/*Bu kod benim için önemli anlamına gelir bu kod olmasaydı bu satırı görmicekti (!important)*/
+}
+
+#main-menu a{
+    transition: 1;
+}
+
+#main-menu a:hover{
+    background-color: #fd79a8;
+    color: #ffff;
+    transition: 1s;
+}
+
+#main-menu .active{
+    background-color: #fd79a8;
+    color: #ffff;
+}
+
+.card-title{
+    background-color: #fd79a7a4;
+    color: #ffff;
+}
