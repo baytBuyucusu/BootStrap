@@ -1,0 +1,60 @@
+header{
+    background-color: #075192;
+    padding-top: 25px;
+}
+
+.gri-arkaplan{
+    background-color: #eedddd;
+}
+
+#ana-menu{
+    background-color: #075192;
+}
+
+li .nav-link{
+    color: #fff;
+}
+
+.metin h2,h2{
+    text-align: center;
+
+}
+
+h5,h2{
+    color: #075192;
+}
+
+.ata-bayrak img{
+ justify-content: center;
+}
+
+.baglanti{
+    font-weight: bold ;
+}
+
+.baglantilar .list-group-item{
+    background-color: #075192;
+    color: #fff;
+    font-size: large;
+}
+
+
+.baglantilar .list-group-item:hover{
+    background-color: #ffffff;
+    color: #00213d;
+}
+
+.slider-aciklama{
+    background-color: #00213da6;
+    color: #fff;
+    padding: 10px;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: #00213db6;
+    width: 30px;
+    height: 5px;
+    border: #ffffff solid 2px;
+    padding: 5px;
+}
+
