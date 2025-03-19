@@ -1,0 +1,17 @@
+body{
+    background: url(res/img/2600_Promo.webp);
+    background-size: cover;
+}
+
+
+.logo img{
+    width: 90px;
+}
+
+.main-menu .nav-link{
+    color: #fff;
+}
+
+#indir-logo{
+    width: 25px;
+}
