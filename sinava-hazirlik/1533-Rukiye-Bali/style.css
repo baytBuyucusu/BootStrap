@@ -1,0 +1,30 @@
+.navbar-brand img{
+    width: 150px;
+}
+
+.carousel-inner {
+    max-height: 500px; /* Slider için maksimum yükseklik belirleyin */
+    /*overflow: hidden;  Resimlerin taşmasını engelleyin */
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 500px; /* Slider'ın yüksekliğine uygun bir değer belirleyin */
+    object-fit: cover;  /*Resmi tam oturt fakat kırpmaya izin ver */
+}
+
+header{
+    background-color: #dcdde1;
+}
+
+.card img{
+    width: 150px;
+}
+
+footer{
+    background-color: #dcdde1;
+}
+
+.footer-resim{
+    width: 150px;
+}
