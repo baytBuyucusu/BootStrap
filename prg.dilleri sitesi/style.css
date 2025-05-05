@@ -1,0 +1,47 @@
+:root{
+    --mavi: #2e86de;
+}
+
+.container-fluid img{
+    width: 55px;
+}
+
+header{
+    background-color: #f1f2f6;
+    padding: 10px;
+}
+
+.main-menu a:hover{
+    background-color: #0984e3;
+    color: #ffff;
+    transition: 0.5s;
+}
+
+.github, .linkedin{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.carousel-inner {
+    max-height: 500px; /* Slider için maksimum yükseklik  */
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;  /*Resmi tam oturt fakat kırpmaya izin ver */
+}
+
+.main-card{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    padding: 7px;
+    margin: 7px;
+}
